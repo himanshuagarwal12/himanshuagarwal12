@@ -41,6 +41,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="himanshuagarwal12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himanshuagarwal12&show_icons=true&hide_border=true" />
+
 [website]: https://himanshuagarwal-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/Himansh96292976
 [instagram]: https://www.instagram.com/hrsa1221/
