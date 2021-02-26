@@ -45,9 +45,9 @@
 
 <img align="left" alt="himanshuagarwal12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himanshuagarwal12&show_icons=true&hide_border=true&theme=radical" />
 
-![willianrod's walkatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshuagarwal12)
+<img align="left" alt="Walktime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=himanshuagarwal12" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuagarwal12&layout=compact)
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuagarwal12&layout=compact" />
 
 [website]: https://himanshuagarwal-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/Himansh96292976
