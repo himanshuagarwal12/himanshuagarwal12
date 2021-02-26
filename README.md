@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Himanshu - aka [An Oneironaut][website] 👋
+### Hi there , I'm Himanshu 👋
 
 ## I'm a Developer, Tech Enthusiast, and passionate Learner!!
 
