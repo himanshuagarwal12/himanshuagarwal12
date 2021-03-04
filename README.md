@@ -1,4 +1,8 @@
 ### Hi there , I'm Himanshu 👋
+<br>
+
+<img align="left" alt="Most Used Languages" src="https://komarev.com/ghpvc/?username=himanshuagarwal12&color=dc143c" />
+<br /><br />
 
 ## I'm a Developer, Tech Enthusiast, and passionate Learner!!
 
@@ -45,13 +49,11 @@
 
 <img align="left" alt="himanshuagarwal12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himanshuagarwal12&show_icons=true&hide_border=true&theme=radical" />
 
-<br /><br />
+<br>
 <!-- <img align="left" alt="Walktime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=himanshuagarwal12" /> -->
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuagarwal12&layout=compact" />
-<br /><br />
 
-<img align="left" alt="Most Used Languages" src="https://komarev.com/ghpvc/?username=himanshuagarwal12&color=dc143c" />
 
 [website]: https://himanshuagarwal-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/Himansh96292976
